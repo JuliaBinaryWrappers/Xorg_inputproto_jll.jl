@@ -1,0 +1,89 @@
+[[Xorg_inputproto]]
+arch = "armv7l"
+git-tree-sha1 = "030fd1d03d1cb8e97fa67eeacd4a28754b7660dc"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_inputproto.download]]
+    sha256 = "0eb02bc928f3f90e545058de39ca9105b3e459b8d30e3181c53ed4842937e7fd"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_inputproto_jll.jl/releases/download/Xorg_inputproto-v2.3.2+0/Xorg_inputproto.v2.3.2.arm-linux-gnueabihf.tar.gz"
+[[Xorg_inputproto]]
+arch = "aarch64"
+git-tree-sha1 = "3f35eb0e67bc3b56af52d9db3ab8145c1183e223"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_inputproto.download]]
+    sha256 = "e9f1a59079c472c05148f9934fe08b90598cb5f605e43ab65f7f2b87b3aeca1a"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_inputproto_jll.jl/releases/download/Xorg_inputproto-v2.3.2+0/Xorg_inputproto.v2.3.2.aarch64-linux-musl.tar.gz"
+[[Xorg_inputproto]]
+arch = "i686"
+git-tree-sha1 = "1fd31b9ffba4536329339cc148d928b135b1fa3c"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_inputproto.download]]
+    sha256 = "cd91a8aca2fee6fdc13a8a419ebe4b2ad59f61c14ffc74e6610326759b2cb081"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_inputproto_jll.jl/releases/download/Xorg_inputproto-v2.3.2+0/Xorg_inputproto.v2.3.2.i686-linux-musl.tar.gz"
+[[Xorg_inputproto]]
+arch = "i686"
+git-tree-sha1 = "4a2143a0692f6b3a918fc8cb6b8e3e99d6ab7d63"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_inputproto.download]]
+    sha256 = "90b47e61b156a000d7191a30c0636d0b81199c132875d70d872600ba411eca7c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_inputproto_jll.jl/releases/download/Xorg_inputproto-v2.3.2+0/Xorg_inputproto.v2.3.2.i686-linux-gnu.tar.gz"
+[[Xorg_inputproto]]
+arch = "x86_64"
+git-tree-sha1 = "b337e39d7718b8fbfaf1d6ea6bb0ea21b1559151"
+os = "freebsd"
+
+    [[Xorg_inputproto.download]]
+    sha256 = "b2b226f33be89aabd90bdb44bd2a86c50f8201ab84fa2471e88bb2b8751ddfcb"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_inputproto_jll.jl/releases/download/Xorg_inputproto-v2.3.2+0/Xorg_inputproto.v2.3.2.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_inputproto]]
+arch = "powerpc64le"
+git-tree-sha1 = "b400aa7290a0356a56f21c08f6a99ec639dc51f3"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_inputproto.download]]
+    sha256 = "8c37d63f13de4c43bc3082e0d31abcc72874b52e324d60835c373416718e76ef"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_inputproto_jll.jl/releases/download/Xorg_inputproto-v2.3.2+0/Xorg_inputproto.v2.3.2.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_inputproto]]
+arch = "armv7l"
+git-tree-sha1 = "f8ba5763c64cf1bae2acba05470492d617f0bab0"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_inputproto.download]]
+    sha256 = "2e3470c72097d7c9c5d96c5aeae552988ba0cf2e6971d9499646ac2e2e57d553"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_inputproto_jll.jl/releases/download/Xorg_inputproto-v2.3.2+0/Xorg_inputproto.v2.3.2.arm-linux-musleabihf.tar.gz"
+[[Xorg_inputproto]]
+arch = "aarch64"
+git-tree-sha1 = "d42a1d6369ef5b9c8cd40ff0c28f856a3b5a7717"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_inputproto.download]]
+    sha256 = "28a3ad3b59112f7a3de5fdbd217c231ef82d32b28415f50284309f8cc8b5186d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_inputproto_jll.jl/releases/download/Xorg_inputproto-v2.3.2+0/Xorg_inputproto.v2.3.2.aarch64-linux-gnu.tar.gz"
+[[Xorg_inputproto]]
+arch = "x86_64"
+git-tree-sha1 = "23202a48641e712194186efa98e22cce49b9ba35"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_inputproto.download]]
+    sha256 = "b7b607c32c9b5cffd481c56fbf14d5270bfdfd379f26335f34c0afd3cedf0fd1"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_inputproto_jll.jl/releases/download/Xorg_inputproto-v2.3.2+0/Xorg_inputproto.v2.3.2.x86_64-linux-gnu.tar.gz"
+[[Xorg_inputproto]]
+arch = "x86_64"
+git-tree-sha1 = "7b0a47143e59b45a50835c59a0dc17040c1af2c2"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_inputproto.download]]
+    sha256 = "baa0a83f1ddfc0d7bac51da8552995207269b1ff5471ae316640246d546ca1d6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_inputproto_jll.jl/releases/download/Xorg_inputproto-v2.3.2+0/Xorg_inputproto.v2.3.2.x86_64-linux-musl.tar.gz"
